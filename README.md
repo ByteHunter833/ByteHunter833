@@ -1,6 +1,6 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/ByteHunter833)
 
-# 👋 Hey there, I'm **Shadow**
+# 👋 Hey there, I'm **Shukrullo**
 ### 💙 Passionate Flutter Developer & UI/UX Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=42A5F5&width=450&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Code+Enjoyer;Future+Architect+of+Apps" alt="Typing SVG" />
@@ -43,4 +43,4 @@
 ---
 
 > 🌀 “Code is art. Flutter is my brush.”  
-> — Shadow
+> — Shukrullo
